@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining more experience. 
 - 🌱 I’m currently learning basic coding with Html, Css, Javascript, and Python and intro to AI learning.
 - 💞️ I’m looking to learn from people and open sources.
-- 📫 How to reach me -->  through email: xiej5645@gmail.com or discord: Jerry#9468
+- 📫 How to reach me -->  through discord: Jerry#9468
 
 <!---
 Xiej5645/Xiej5645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
