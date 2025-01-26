@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xiej5645, a college sophomore.
 - 👀 I’m aspring to be a software developer.
 - 👨‍💻 Worked with Python, C++, Java, HTML, CSS, JavaScript
-- 🌱 I’m currently learning react with JavaScript, and intro to AI learning.
+- 🌱 I’m currently learning React with JavaScript, and intro to AI learning.
 - 💞️ I’m looking to learn from people and open sources.
 - 📫 How to reach me -->  through discord: Jerry#9468
 
