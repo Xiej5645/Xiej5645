@@ -5,7 +5,7 @@
 - 👨‍💻 Worked with Python, C++, Java, HTML, CSS, JavaScript
 - 🌱 I’m currently learning React with JavaScript, and intro to AI learning.
 - 💞️ I’m looking to learn from others and open sources.
-- 📫 How to reach me -->  [visit here](https://github.com/xiej5645/xiej5645/issues)
+- 📫 How to reach me -->  [visit here](https://github.com/xiej5645/xiej5645/issues) or alternative: [here](https://xiej5645.github.io/about)
 - 🎉 Fun Fact: 我也会讲中文。繁體簡體都會看，也會寫。
 - Also want to get into cybersecurity
 <h2>🚀 Some Tools I Use</h2>
