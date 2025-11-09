@@ -1,12 +1,13 @@
 <h2>HI 👋, I'm <a href="https://xiej5645.github.io/">Johnson</a></h2>
-<p>I'm a college sophomore, aspiring to be a fullstack software developer.</p>
+<p>Aspiring fullstack software developer<p>
+<p>Time flies! I'm a college junior now.</p>
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 👨‍💻 Worked with Python, C++, Java, HTML, CSS, JavaScript
 - 🌱 I’m currently learning cybersecurity and AI.
 - 💞️ I’m looking to learn from others and open sources.
-- 📫 How to reach me -->  [visit here](https://github.com/xiej5645/xiej5645/issues) or alternative: [here](https://xiej5645.github.io/about)
-- 🎉 Fun Fact: 我也会讲中文。繁體簡體聼閲讀寫都會。
+- 📫 How to reach me -->  [create a post here](https://github.com/xiej5645/xiej5645/issues) or alternative: [complete this form](https://xiej5645.github.io/about)
+- 🎉 Nice to meet you! I have posted some of my projects and experiences here. If there are any issues or concerns or thoughts on them, please reach out. 
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -25,9 +26,10 @@
 
 ![spotify-github-profile](/assets/spotify.svg)
 <!---
-for anyone curious and self reference: svg modified from his amazing profile https://github.com/itgoyo/
+for self reference: svg taken and modified from his amazing profile https://github.com/itgoyo/
 --->
 <!---
+default content: 
 Xiej5645/Xiej5645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
